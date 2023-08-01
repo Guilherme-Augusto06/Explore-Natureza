@@ -1,0 +1,11 @@
+.img-scroll img{
+    width: 20px;
+}
+.img-scroll{
+    height: 50vh;
+    width: 300px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+    display: flex;
+}
