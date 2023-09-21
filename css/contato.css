@@ -1,4 +1,4 @@
-.contato p{
+.contact p{
     font-size: 1.1rem;
     color: #626262;
     font-weight: 400;
@@ -6,9 +6,8 @@
     margin-bottom: 1rem;
 }
 
-.contato-content{
+.contact-content{
     display: flex;
     gap: 2rem;
     flex-wrap: wrap;
-
 }
