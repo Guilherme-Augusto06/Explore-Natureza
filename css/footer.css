@@ -1,4 +1,6 @@
-.diraut{
+.footer{
+    display: flex;
+    justify-content: center;
     max-width: 1200px;
     margin-left: auto;
     background-color: #2fa97c;
@@ -6,5 +8,4 @@
     margin-top: 2rem;
     padding: 20px;
     color: #fff;
-    display: flex;
 }
